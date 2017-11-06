@@ -1,6 +1,3 @@
-// Author: Faisal Ali
-// Date: 5th Oct 2017
-
 # What is SEO?
 
 * The efforts revolving around trying to get a site/page to show up(rank) or increase rank within a Search Engine Results Page (SERP)
@@ -118,3 +115,9 @@ This is the most bind-blowing feature offered by Angular Universal. Angular Univ
 
 
 * Angular Universal was originally built to work with a node.js back-end. There are adapters for most popular node.js server-side frameworks such as Express or Hapi.js. In addition to node.js, however, Angular Universal has ASP.NET Core support. In the near future we hope to add support for Java, PHP and Python.
+
+
+
+
+## contributors:
+* Faisal Ali
